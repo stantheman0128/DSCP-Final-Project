@@ -97,6 +97,3 @@ The project successfully applied data science techniques to a real-world environ
 ---
 
 **GitHub Repository**: https://github.com/stantheman0128/DSCP-Final-Project  
-**Interactive Notebook**: [View on nbviewer](https://nbviewer.org/)
-
-*This project demonstrates proficiency in data acquisition, cleaning, analysis, and visualization as required by the DSCP curriculum.*
