@@ -87,7 +87,7 @@ The project aimed to:
 
 ## Technical Implementation
 
-- **Programming Language**: Python 3.x
+- **Programming Language**: Python 3.13
 - **Key Libraries**: pandas, matplotlib, seaborn, numpy
 - **Data Pipeline**: Automated API calls → Cleaning → Analysis → Visualization
 - **Reproducibility**: All code available on GitHub with clear documentation
